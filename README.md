@@ -13,5 +13,5 @@ Took an assignment code for a password generating site and made it follow the cr
 
 ## Resources
 - [Live Site](https://selaprivette.github.io/passwordgenerator/) 
-- [Repository](https://github.com/selaprivette/portfolio)
+- [Repository](https://github.com/selaprivette/passwordgenerator)
 
