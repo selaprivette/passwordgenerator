@@ -9,7 +9,7 @@
 Took an assignment code for a password generating site and made it follow the criteria. The user is able to select which characters and password length they want, and have a random password generated for them. If the incorrect information, or not enough information is selected the site will produce an error messgage.
 
 ## Visuals
-![Portfolio](./assets/images/Password-Generator.png)
+![Password-Generator](./assets/images/Password-Generator.png)
 
 ## Resources
 - [Live Site](https://selaprivette.github.io/passwordgenerator/) 
