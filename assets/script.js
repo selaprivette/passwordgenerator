@@ -53,11 +53,7 @@ for(var i=0; i < passwordLength; i++){
   builtPassword=builtPassword+randomCharacter;
 }
 
-//validate that password follows the rules
-
 //return password to the screen
-
-
 return builtPassword;
 }
 
