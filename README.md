@@ -6,7 +6,7 @@
 3. [Resources](#resources)
 
 ## Description
-Made a viewable, user-friendly, portfolio page that can be revisited when need be. Portfolio includes previous work, a resume, example photos, and a little bit about me. When you view the page you can see tabs that will take user to the correct sections. The pictures are also clickable  , so that users can go to external pages. 
+Took an assignment code for a password generating site and made it follow the criteria. The user is able to select which characters and password length they want, and have a random password generated for them. If the incorrect information, or not enough information is selected the site will produce an error messgage.
 
 ## Visuals
 ![Portfolio](./assets/images/Password-Generator.png)
